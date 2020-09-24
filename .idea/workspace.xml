@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="148cb041-6aa2-4dd1-a33a-3cea69438966" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fwbrGsT6Nd7yBZufMPnYocEz0k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webProject\newCanvas" />
+      <recent name="E:\webProject\newCanvas\weijia" />
+      <recent name="E:\webProject\newCanvas\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webProject\newCanvas\image" />
+      <recent name="E:\webProject\newCanvas" />
+      <recent name="E:\webProject\newCanvas\weijia" />
+      <recent name="E:\webProject\newCanvas\js\backUp" />
+      <recent name="E:\webProject\newCanvas\js\plugin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.fn2.js">
+    <configuration name="fn1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/fn1.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="fn2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/fn2.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.fn2.js" />
+        <item itemvalue="Node.js.fn1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\17248\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="148cb041-6aa2-4dd1-a33a-3cea69438966" name="Default Changelist" comment="" />
+      <created>1597132298678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597132298678</updated>
+      <workItem from="1597132299752" duration="3288000" />
+      <workItem from="1597196050568" duration="1363000" />
+      <workItem from="1597206196078" duration="974000" />
+      <workItem from="1597214745296" duration="11210000" />
+      <workItem from="1597287346309" duration="5431000" />
+      <workItem from="1597300694460" duration="6595000" />
+      <workItem from="1597368410734" duration="3142000" />
+      <workItem from="1597462549740" duration="1892000" />
+      <workItem from="1597628787085" duration="5553000" />
+      <workItem from="1597655115379" duration="2004000" />
+      <workItem from="1597824636667" duration="1998000" />
+      <workItem from="1597906822628" duration="7226000" />
+      <workItem from="1597972896587" duration="5412000" />
+      <workItem from="1598062705633" duration="6263000" />
+      <workItem from="1598246076718" duration="1249000" />
+      <workItem from="1598321236313" duration="4693000" />
+      <workItem from="1598872775319" duration="591000" />
+      <workItem from="1598943577708" duration="609000" />
+      <workItem from="1599097859336" duration="602000" />
+      <workItem from="1599123867295" duration="669000" />
+      <workItem from="1599471006328" duration="1021000" />
+      <workItem from="1599532634700" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597207151080">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597207151080" />
+    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1597656548639">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597656548639" />
+    <state width="1899" height="493" key="GridCell.Tab.0.bottom" timestamp="1598348928602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="493" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598348928602" />
+    <state width="1899" height="493" key="GridCell.Tab.0.center" timestamp="1598348928602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="493" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598348928602" />
+    <state width="1899" height="493" key="GridCell.Tab.0.left" timestamp="1598348928602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="493" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598348928602" />
+    <state width="1899" height="493" key="GridCell.Tab.0.right" timestamp="1598348928602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="493" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1598348928602" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597308013962">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597308013962" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1597226479222">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597226479222" />
+    <state x="2688" y="420" key="svn.upgradeDialog" timestamp="1597656551873">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2688" y="420" key="svn.upgradeDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597656551873" />
+    <state x="2603" y="383" key="svn4idea.checkout.options" timestamp="1597656550866">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2603" y="383" key="svn4idea.checkout.options/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1597656550866" />
+  </component>
+</project>

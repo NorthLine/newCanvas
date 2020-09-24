@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.frameBox{
+    width: 90vw;
+    height: 90vh;
+    margin: 5vh 5vw;
+    opacity: 0;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+
+/*人物信息样式*/
+.personLineCont{
+    word-break: keep-all;
+}
+.personInners{
+    text-align: center;
+    margin: 25px 15px;
+    display: inline-block;
+    position: relative;
+    z-index: 15;
+}
+.personInnerCont{
+    background: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 90px;
+    height: 125px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 14;
+    border: 3px solid transparent;
+}
+.personBox{
+    padding: 50px;
+}
+.personNames{
+    padding: 5px 0;
+}
+
+.personInnerCont:hover{
+    border-color: #ff6200;
+    background: #ff6200;
+    color: #fff;
+    border-radius: 0;
+}
+.childrenBox{
+    display: flex;
+    justify-content: center;
+}
+.detailsDrictBox,.spouseBox{
+    display: inline-block;
+}
+
